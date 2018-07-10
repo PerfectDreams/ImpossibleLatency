@@ -1,0 +1,4 @@
+name: ImpossibleLatency
+main: net.perfectdreams.impossiblelatency.ImpossibleLatency
+version: 1.0.0
+softdepend: ["ProtocolLib"]
